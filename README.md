@@ -1,2 +1,2 @@
 # anand-js-code
-a js code for learner
+a js code for learner Author Anand 
